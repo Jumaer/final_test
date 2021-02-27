@@ -1,0 +1,49 @@
+[
+    
+     {
+      "answers" : [ "Genom att köra en bil med katalysator", "Genom att köra på lågoctanig bensin", "Genom att varmköra motorn till en tillräckligt varm temperatur före färd.", "Genom att köra med låga varvtal." ],
+      "id" : "10011",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/cloud-chat-f8f3d.appspot.com/o/photos%2Ftest1%2Fposter.jpg?alt=media&token=17ec649c-dbf1-4423-97d6-c43c7104a1e5",
+      "question" : "Hur kan du på bästa sätt minska utsläppen av koldioxid?",
+      "rightAnswer" : 1,
+      "type" : 1,
+      "typeName" : "Test 1"
+    },
+   {
+      "answers" : [ "Jag försöker hela tiden köra på höga motorvarv", "Jag släpper gasen undvika bromsning", "Jag använder bilens farthållare", "Jag växlar till en lägre växel i alla uppförsbackar." ],
+      "id" : "10012",
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/cloud-chat-f8f3d.appspot.com/o/photos%2Ftest2%2F12.png?alt=media&token=5c921f5e-1653-46c5-80c1-83ea83d40067",
+      "question" : "Hur kan du på bästa sätt minska bränsleförbrukningen?",
+      "rightAnswer" : 2,
+      "type" : 1,
+      "typeName" : "Test 1"
+    },
+     
+      {
+        "answers" : [ "Jag försöker hela ", "Jag släpper  undvika bromsning", "Jag  farthållare", "Jag växlar til alla uppförsbackar." ],
+        "id" : "10012",
+        "imageUrl" : "",
+        "question" : "Hur kan du  bränsleförbrukningen?",
+        "rightAnswer" : 2,
+        "type" : 1,
+        "typeName" : "Test 1"
+      }
+      , {
+        "answers" : [ "Jag försöker motorvarv", "Jag tid för att undvika bromsning", "Jag  farthållare", "Jag växlar till en lägre växel i alla uppförsbackar." ],
+        "id" : "10012",
+        "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/cloud-chat-f8f3d.appspot.com/o/photos%2Ftest2%2F12.png?alt=media&token=5c921f5e-1653-46c5-80c1-83ea83d40067",
+        "question" : "minska bränsleförbrukningen?",
+        "rightAnswer" : 2,
+        "type" : 1,
+        "typeName" : "Test 1"
+      },
+       {
+          "answers" : [ "Genom  katalysator", " lågoctanig bensin", "Genom att  till en tillräckligt varm temperatur före färd.", "Genom  varvtal." ],
+          "id" : "10011",
+          "imageUrl" : "",
+          "question" : "Hur kan du på bästa ?",
+          "rightAnswer" : 1,
+          "type" : 1,
+          "typeName" : "Test 1"
+        }
+    ]
